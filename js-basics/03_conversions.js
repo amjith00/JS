@@ -4,8 +4,13 @@
 // // let numberIn = boolean(number)
 // console.log(string(number))
 
-let a = "90";
+// let a = "90";
 
-let numberIn = boolean(a)
-console.log(numberIn);
+// let numberIn = boolean(a)
+// console.log(numberIn);
 
+let someNumber = 33;
+
+let someString = string(someNmber);
+
+console.log(someString)
